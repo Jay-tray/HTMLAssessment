@@ -1,0 +1,41 @@
+/*User Story 1 */
+.subjectHeader{
+  color: blue;
+  font: sans-serif;
+}
+/*User Story 2 */
+#scoreBoard {
+  border: 1px solid;
+  text-align: center;
+}
+table tr  th {
+  color: blue;
+  font-weight: bold;
+}
+/*User Story 3 */
+ul>li{
+  list-style-type: square;
+}
+/*User Story 4 */
+.hyperLink:hover {
+  background-color: red;
+   text-decoration: none;
+}
+/*User Story 5 */
+body blockquote {
+  background-color: red;
+  color: white;
+}
+/*User Story 6 */
+ul>li>img:first-child {
+  background-image: url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
+  position:fixed;
+  background-size:contain;
+  padding-left: .6em;
+  opacity: .2;
+}
+
+/*User Story 7 */
+#checkbox-grid {
+   list-style: none;
+}
